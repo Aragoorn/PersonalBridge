@@ -10,7 +10,7 @@ A lightweight, secure, and transparent personal asset management bridge deployed
 
 ## Core Functions
 1. **bridgeTokens(address token, uint256 amount):** Securely transfers approved tokens from your wallet to the contract (Locking).
-2. **releaseTokens(address token, address recipient, uint256 amount):** Transfers tokens from the contract to a designated recipient address (Releasing). Only the contract owner can call this function.
+2. **releaseTokens(address token, address recipient, uint256 amount):** Transfers tokens from the contract to a designated recipient address (Releasing). Only the contract owner can call this function..
 
 ## How to Deploy & Interact
 1. **Verification:** All source code is verified on [BaseScan](https://basescan.org/address/0x3c810c613184Ef28D1560D5425099c041d08285#code).
